@@ -15,5 +15,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, and my u
 
 That's why I like to make things that make a difference.
 
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
+
 
