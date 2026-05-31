@@ -43,6 +43,13 @@ I am a software engineer with an obsessive attention to detail and a passion for
 
 ---
 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kartikrathore7773/kartikrathore7773/output/github-contribution-grid-snake.svg"/>
+</div>
+
+---
+
 ### 🌐 Connect with Me
 
 <div align="center">
