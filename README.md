@@ -76,7 +76,7 @@ I am a software engineer with an obsessive attention to detail and a passion for
 🐍 Contribution Flow
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aayush0501200/aayush0501200/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/aayush0501200/aayush0501200/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 ---
