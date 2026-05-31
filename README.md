@@ -53,7 +53,7 @@ I am a software engineer with an obsessive attention to detail and a passion for
 ### 📊 GitHub Analytics
 
 <div align="center">
-<img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aayush0501200&show_icons=true&theme=nightowl&hide_border=true"/>
+<img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aayush0501200&show_icons=true&theme=nightowl&hide_border=true&count_private=true&include_all_commits=true"/>
 <img width="47%" src="https://streak-stats.demolab.com?user=aayush0501200&theme=nightowl&hide_border=true"/>
 <br/>
 <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aayush0501200&layout=compact&theme=nightowl&hide_border=true"/>
