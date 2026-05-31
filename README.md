@@ -1,12 +1,15 @@
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=300&section=header&text=Aayush%20Chhabra&fontSize=90&animation=fadeIn&fontAlignY=38" />
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=220&section=header&text=Aayush%20Chhabra&fontSize=46&fontColor=ffffff"/>
+
+# 👋 Hey, I'm Aayush  
+### ⚡ Turning ideas into scalable software
 </div>
 
-<div align="center">
-  <h3> 🌝 Solving my time away </h3>
-  <p>Frontend Developer | Software Engineer | Writer</p>
-</div>
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aayush0501200&label=Visitors&color=0e75b6&style=for-the-badge"/>
+</p>
 
 ---
 
@@ -18,37 +21,8 @@ I am a software engineer with an obsessive attention to detail and a passion for
 - 📚 I enjoy reading and writing about software architecture and performance.
 - ⚡ Fun fact: I love speaking about tech and sharing knowledge.
 
----
 
-### 🛠️ Tools & Technologies
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,py,react,ts,docker,kubernetes&theme=dark" />
-  </a>
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayush0501200&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush0501200&theme=radical&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush0501200&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
-
----
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kartikrathore7773/kartikrathore7773/output/github-contribution-grid-snake.svg"/>
-</div>
-
----
+----
 
 ### 🌐 Connect with Me
 
@@ -64,8 +38,55 @@ I am a software engineer with an obsessive attention to detail and a passion for
   </a>
 </div>
 
-<br />
+---
+
+### 🛠️ Tools & Technologies
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aayush0501200&color=blue" alt="Profile Views" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,py,react,ts,html,css,js,docker,kubernetes&theme=dark" />
+  </a>
 </div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+<img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aayush0501200&show_icons=true&theme=nightowl&hide_border=true"/>
+<img width="47%" src="https://streak-stats.demolab.com?user=aayush0501200&theme=nightowl&hide_border=true"/>
+<br/>
+<img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aayush0501200&layout=compact&theme=nightowl&hide_border=true"/>
+</div>
+<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayush0501200&theme=nightowl&hide_border=true"/>
+</p>
+
+---
+
+
+## 💭 Daily Dev Fuel  
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</div>
+
+---
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kartikrathore7773/kartikrathore7773/output/github-contribution-grid-snake.svg"/>
+</div>
+
+---
+
+
+## 🧠 Engineering Mindset  
+
+```js
+while (curiosity) {
+  build();
+  breakThings();
+  learn();
+}
