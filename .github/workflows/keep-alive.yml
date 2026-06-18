@@ -2,6 +2,7 @@ name: keep-alive
 on:
   schedule:
     - cron: "*/14 * * * *"
+  workflow_dispatch: # This single line enables the manual button
 jobs:
   ping:
     runs-on: ubuntu-latest
